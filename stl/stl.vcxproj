@@ -70,7 +70,7 @@
     <ClInclude Include="..\7container\print.hpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\7container\Deque.cpp" />
+    <ClCompile Include="ForwardList.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

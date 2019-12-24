@@ -23,7 +23,7 @@
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\7container\Deque.cpp">
+    <ClCompile Include="ForwardList.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
